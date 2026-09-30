@@ -1,0 +1,4 @@
+record_type,customer_id,full_name,email,phone,bank_account,card_last4,transaction_amount,currency,monthly_spend
+synthetic_test,CUST-1001,Noah Example,noah.example@example.invalid,+1-202-555-0111,TEST-ACCT-0001,4242,12500.75,USD,8400
+synthetic_test,CUST-1002,Olivia Example,olivia.example@example.invalid,+1-202-555-0112,TEST-ACCT-0002,1111,875.20,USD,1200
+synthetic_test,CUST-1003,Liam Example,liam.example@example.invalid,+1-202-555-0113,TEST-ACCT-0003,5555,42000.00,USD,9100
